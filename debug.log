@@ -1,0 +1,2 @@
+[0908/090223.505:ERROR:crashpad_client_win.cc(389)] OpenProcess: Access is denied. (0x5)
+[0908/101426.400:ERROR:crashpad_client_win.cc(389)] OpenProcess: Access is denied. (0x5)

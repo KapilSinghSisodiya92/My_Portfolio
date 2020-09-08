@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Kapil Singh",
+    "occupation": "Full Stack Developer",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
+    "image": "IG_Kapil.jpg",
+    "bio": "My name is Kapil, I'm a Full Stack ReactJS Developer. Currently I'm working at CDK Global while also coaching and learning new stuff",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "Kapilsinghsisodiya@gmail.com  ",
+    "phone": "+91 7093618086",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "201 Madhura Hills",
+      "city": "Hyderabad",
+      "state": "India",
+      "zip": "500008"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/17zRuXSCVM05GSzUrMWm6iOOc6TxzQoik/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/kapilnitkkr/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/kapilsinghsisodiya/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/kapilsinghsisodiya/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/KapilSinghSisodiya92/",
         "className": "fa fa-github"
       }
     ]
@@ -43,24 +43,24 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
+        "school": "National Institute of Technology",
         "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "graduated": "July 2015",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "CDK Global Technology",
+        "title": "Team Member && React Specialist && Full Stack Developement",
+        "years": "August 2015 - Present",
+        "description": "working towards my passion."
       },
       {
-        "company": "Lindar Media",
+        "company": "Opentext Technology",
         "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "years": "Jan 2015 - August 2015",
+        "description": "Workiing on Brava viewer"
       }
     ],
     "skills": [
@@ -74,7 +74,7 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Figma && Adobe XD",
@@ -87,6 +87,10 @@
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "Algorithm & Data Structure",
+        "level": "80%"
       }
     ]
   },
@@ -95,32 +99,50 @@
       {
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "image": "whatsapp-clone.png",
+        "url": "https://whatsapp-clone-kapil.web.app/"
       },
       {
         "title": "MERN Stack TikTok Clone",
         "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "image": "tok-tok-clone.png",
+        "url": "https://mern-tick-tock.web.app/"
       },
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "url": "https://facebook-clone-8d5ca.web.app/"
       },
       {
         "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Airbnb Clone built with ReactJS",
         "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "url": "https://airbnb-clone-c8bde.web.app/"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Netflix Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://netflix-clone-kapil.web.app/"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "Hulu Clone built with ReactJS",
+        "image": "Hulu-clone.png",
+        "url": "https://hulu-clone-8e322.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon-home.png",
+        "url": "https://clone-48270.web.app/"
+      },
+      {
+        "title": "Google Clone",
+        "category": "Google Clone built with ReactJS",
+        "image": "google-clone.png",
+        "url": "https://clone-3cae9.web.app/"
       }
     ]
   },
@@ -128,10 +150,10 @@
     "testimonials": [
       {
         "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "user": "Sandeep Singh Sisodiya"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "I have had the opportunity to work with Kapil on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
         "user": "Steve Wozniak... impersonator"
       }
     ]
